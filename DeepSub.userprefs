@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\oxygentankscript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Trigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\terrainscript.cs" Line="259" Column="26" />
+      <File FileName="Assets\Scripts\gameplay.cs" Line="111" Column="43" />
+      <File FileName="Assets\Scripts\submarine.cs" Line="28" Column="2" />
+      <File FileName="Assets\Scripts\Down.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Up.cs" Line="1" Column="1" />
+      <File FileName="Assets\scalecamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\oxygentankscript.cs" Line="19" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

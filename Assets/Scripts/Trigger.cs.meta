@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a201d73562786a4fb8b26dc05f9571e
+timeCreated: 1518417187
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - defaultterrain: {fileID: 2100000, guid: 56d7f12c0ba4bc745b2e6f8e6c381869, type: 2}
+  - hologramterrain: {fileID: 2100000, guid: cbbbc615788e8e54da928cee53c78e64, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
